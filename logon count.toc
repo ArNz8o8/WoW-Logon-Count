@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: Logon count - by ArNz8o8
+## Author: ArNz|8o8
+## Version: 1.0
+## SavedVariables: LogonCount
+
+main.lua
